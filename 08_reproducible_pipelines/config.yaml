@@ -1,0 +1,3 @@
+
+input_file: data/generated/patients.csv
+output_dir: 08_reproducible_pipelines/outputs

@@ -1,0 +1,4 @@
+standard,main_use,why_it_matters
+HL7,Clinical messaging,Moves healthcare data between systems
+FHIR,API-based clinical data exchange,Supports modern interoperability
+OMOP,Common data model for analytics,Enables multi-site research and analytics
