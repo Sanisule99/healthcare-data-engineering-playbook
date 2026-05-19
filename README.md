@@ -80,23 +80,23 @@ This repository demonstrates practical biomedical informatics and healthcare ana
 
 
 
-\## Example Outputs
+## Example Outputs
 
 
 
-\### Kaplan–Meier Survival Curve
+### Kaplan–Meier Survival Curve
 
 
 
-!\[KM Curve](screenshots/km\_curve.png)
+![KM Curve](screenshots/km\_curve.png)
 
 
 
-\### Healthcare Data Visualization
+### Healthcare Data Visualization
 
 
 
-!\[Patients by Sex](screenshots/patients\_by\_sex.png)
+![Patients by Sex](screenshots/patients\_by\_sex.png)
 
 
 
