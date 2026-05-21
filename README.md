@@ -106,3 +106,30 @@ Planned future topics include:
 - Data observability
 - Fabric/Snowflake workflows
 
+
+---
+
+# ?? Project Visuals
+
+## Healthcare Dashboard
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
+---
+
+## Streamlit Health Data Explorer
+
+![Streamlit Explorer](screenshots/streamlit_explorer.png)
+
+---
+
+## ETL Pipeline Example
+
+![ETL Pipeline](screenshots/etl_pipeline_output.png)
+
+---
+
+## Repository Structure
+
+![Repository Structure](screenshots/repo_structure.png)
+
