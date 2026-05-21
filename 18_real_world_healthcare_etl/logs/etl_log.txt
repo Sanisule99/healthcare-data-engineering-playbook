@@ -1,0 +1,6 @@
+[2026-05-21 17:32:40] ETL started
+[2026-05-21 17:32:40] patients: required columns validated
+[2026-05-21 17:32:40] encounters: required columns validated
+[2026-05-21 17:32:40] Patients deduplicated: 1 duplicate rows removed
+[2026-05-21 17:32:40] Processed files saved
+[2026-05-21 17:32:40] ETL completed
