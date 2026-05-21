@@ -1,194 +1,108 @@
-\# Healthcare Data Engineering Playbook
+# ?? Healthcare Data Engineering Playbook
 
+A practical portfolio of healthcare informatics, data engineering, analytics, AI, and digital health workflows.
 
-
-Practical healthcare data science, biomedical informatics, and data engineering workflows using Python.
-
-
-
-\---
-
-
-
-\## Why This Project Exists
-
-
-
-Healthcare AI depends on reliable data infrastructure.
-
-
-
-Before modeling begins, healthcare data teams must solve challenges related to:
-
-\- fragmented clinical systems
-
-\- interoperability
-
-\- missing data
-
-\- validation
-
-\- feature engineering
-
-\- reproducibility
-
-
-
-This repository demonstrates practical biomedical informatics and healthcare analytics workflows using mock healthcare datasets.
-
-
-
-\---
-
-
-
-\## Modules
-
-
-
-| Module | Topic |
-
-|---|---|
-
-| 01 | Healthcare Data Sources |
-
-| 02 | Healthcare Data Standards |
-
-| 03 | Data Pipeline Design |
-
-| 04 | Missing Clinical Data |
-
-| 05 | Feature Engineering |
-
-| 06 | Imbalanced Medical Datasets |
-
-| 07 | Data Validation |
-
-| 08 | Reproducible Pipelines |
-
-| 09 | Survival Analysis |
-
-| 10 | Synthetic Data \& Privacy |
-
-| 11 | Multimodal Health Data |
-
-| 12 | Future Health Data Systems |
-
-
-
-\---
-
-
-
-## Example Outputs
-
-
-
-### Kaplan–Meier Survival Curve
-
-
-
-![KM Curve](screenshots/km\_curve.png)
-
-
-
-### Healthcare Data Visualization
-
-
-
-![Patients by Sex](screenshots/patients\_by\_sex.png)
-
-
+This repository was created to explore how healthcare data can be transformed into usable, reproducible, and interpretable systems for analytics, research, quality improvement, and decision support.
 
 ---
 
+# ?? Repository Focus Areas
 
+- Healthcare data engineering
+- Healthcare interoperability (FHIR)
+- SQL analytics
+- ETL pipelines
+- Streamlit dashboards
+- Explainable AI
+- Public health informatics
+- Digital pathology AI
+- Cloud healthcare architecture
+- Data governance and responsible AI
 
-\## Technologies Used
+---
 
+# ?? Modules
 
+See:
+## ?? PROJECT_INDEX.md
 
-\- Python
+for the complete module list and navigation guide.
 
-\- Pandas
+---
 
-\- NumPy
+# ?? Why This Repository Exists
 
-\- Matplotlib
+Healthcare systems increasingly rely on:
+- scalable data pipelines
+- interoperable APIs
+- analytics engineering
+- explainable machine learning
+- reproducible workflows
+- responsible AI governance
 
-\- Scikit-learn
+This repository demonstrates beginner-to-intermediate implementations of these concepts using synthetic and educational datasets.
 
-\- Lifelines
+---
 
+# ??? Technologies Used
 
+- Python
+- SQL
+- Streamlit
+- Pandas
+- Scikit-learn
+- Plotly
+- FHIR APIs
+- Azure concepts
+- AWS concepts
 
-\---
+---
 
+# ?? Current Highlights
 
+- FHIR interoperability workflows
+- Healthcare SQL analytics
+- Healthcare dashboards
+- Explainable AI examples
+- ETL pipelines
+- Public health informatics metrics
+- Digital pathology AI concepts
+- Governance checklists and templates
 
-\## Pipeline Architecture
+---
 
+# ?? Data Privacy
 
+This repository uses synthetic, educational, or public-use data only.
 
-```text
+Do not upload:
+- protected health information (PHI)
+- identifiable patient records
+- confidential institutional datasets
 
-Healthcare Data Sources
+---
 
-&#x20;       ↓
+# ?? Learning Goals
 
-Validation
+This repository is intended to:
+- support learning
+- demonstrate practical workflows
+- bridge healthcare and engineering
+- encourage reproducible analytics
+- make healthcare informatics more accessible
 
-&#x20;       ↓
+---
 
-Transformation \& Cleaning
+# ?? Future Additions
 
-&#x20;       ↓
-
-Feature Engineering
-
-&#x20;       ↓
-
-Modeling \& Survival Analysis
-
-&#x20;       ↓
-
-Visualization \& Reporting
-
-```
-
-
-
-\---
-
-
-
-\## Future Improvements
-
-
-
-\- Streamlit dashboards
-
-\- FHIR examples
-
-\- MIMIC-IV integration
-
-\- CMS claims workflows
-
-\- OMOP examples
-
-\- cloud deployment examples
-
-
-
-\---
-
-
-
-\## Author
-
-
-
-Saanie Sulley  
-
-Biomedical Informatics • Healthcare Data Science • Clinical AI Infrastructure
+Planned future topics include:
+- dbt workflows
+- Airflow orchestration
+- HL7 parsing
+- MIMIC-IV analytics
+- Real-time streaming pipelines
+- Healthcare NLP
+- Multimodal AI
+- Data observability
+- Fabric/Snowflake workflows
 
