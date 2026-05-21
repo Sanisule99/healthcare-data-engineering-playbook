@@ -1,15 +1,15 @@
-# ?? Healthcare Data Engineering Playbook
+﻿# Healthcare Data Engineering Playbook
 
 A practical portfolio of healthcare informatics, data engineering, analytics, AI, and digital health workflows.
 
-This repository was created to explore how healthcare data can be transformed into usable, reproducible, and interpretable systems for analytics, research, quality improvement, and decision support.
+This repository explores how healthcare data can be transformed into usable, reproducible, and interpretable systems for analytics, research, quality improvement, and decision support.
 
 ---
 
-# ?? Repository Focus Areas
+## Repository Focus Areas
 
 - Healthcare data engineering
-- Healthcare interoperability (FHIR)
+- Healthcare interoperability using FHIR
 - SQL analytics
 - ETL pipelines
 - Streamlit dashboards
@@ -21,30 +21,13 @@ This repository was created to explore how healthcare data can be transformed in
 
 ---
 
-# ?? Modules
+## Modules
 
-See:
-## ?? PROJECT_INDEX.md
-
-for the complete module list and navigation guide.
+See [PROJECT_INDEX.md](PROJECT_INDEX.md) for the complete module list and navigation guide.
 
 ---
 
-# ?? Why This Repository Exists
-
-Healthcare systems increasingly rely on:
-- scalable data pipelines
-- interoperable APIs
-- analytics engineering
-- explainable machine learning
-- reproducible workflows
-- responsible AI governance
-
-This repository demonstrates beginner-to-intermediate implementations of these concepts using synthetic and educational datasets.
-
----
-
-# ??? Technologies Used
+## Technologies Used
 
 - Python
 - SQL
@@ -58,7 +41,7 @@ This repository demonstrates beginner-to-intermediate implementations of these c
 
 ---
 
-# ?? Current Highlights
+## Current Highlights
 
 - FHIR interoperability workflows
 - Healthcare SQL analytics
@@ -71,20 +54,22 @@ This repository demonstrates beginner-to-intermediate implementations of these c
 
 ---
 
-# ?? Data Privacy
+## Data Privacy
 
 This repository uses synthetic, educational, or public-use data only.
 
 Do not upload:
-- protected health information (PHI)
+
+- protected health information
 - identifiable patient records
 - confidential institutional datasets
 
 ---
 
-# ?? Learning Goals
+## Learning Goals
 
 This repository is intended to:
+
 - support learning
 - demonstrate practical workflows
 - bridge healthcare and engineering
@@ -93,43 +78,16 @@ This repository is intended to:
 
 ---
 
-# ?? Future Additions
+## Future Additions
 
 Planned future topics include:
+
 - dbt workflows
 - Airflow orchestration
 - HL7 parsing
 - MIMIC-IV analytics
-- Real-time streaming pipelines
-- Healthcare NLP
-- Multimodal AI
-- Data observability
-- Fabric/Snowflake workflows
-
-
----
-
-# ?? Project Visuals
-
-## Healthcare Dashboard
-
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
----
-
-## Streamlit Health Data Explorer
-
-![Streamlit Explorer](screenshots/streamlit_explorer.png)
-
----
-
-## ETL Pipeline Example
-
-![ETL Pipeline](screenshots/etl_pipeline_output.png)
-
----
-
-## Repository Structure
-
-![Repository Structure](screenshots/repo_structure.png)
-
+- real-time streaming pipelines
+- healthcare NLP
+- multimodal AI
+- data observability
+- Microsoft Fabric and Snowflake workflows
