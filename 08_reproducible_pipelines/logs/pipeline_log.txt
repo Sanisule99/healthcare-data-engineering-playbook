@@ -1,0 +1,6 @@
+[2026-05-21 17:59:46] Pipeline started
+[2026-05-21 17:59:46] Loaded input file with shape: (10, 5)
+[2026-05-21 17:59:46] Required columns validated
+[2026-05-21 17:59:46] After duplicate removal: (10, 5)
+[2026-05-21 17:59:46] Saved processed output to: C:\Users\sanis\Git\healthcare-data-engineering-playbook\08_reproducible_pipelines\outputs\processed_patient_data.csv
+[2026-05-21 17:59:46] Pipeline completed successfully

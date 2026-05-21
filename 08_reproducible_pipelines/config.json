@@ -1,0 +1,14 @@
+{
+  "input_file": "data/raw_patient_data.csv",
+  "output_file": "outputs/processed_patient_data.csv",
+  "log_file": "logs/pipeline_log.txt",
+  "required_columns": [
+    "patient_id",
+    "age",
+    "sex",
+    "encounter_count",
+    "chronic_condition_count"
+  ],
+  "high_utilization_threshold": 5,
+  "high_chronic_condition_threshold": 3
+}
