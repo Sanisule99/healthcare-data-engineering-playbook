@@ -1,14 +1,13 @@
 # 17 — Cloud Healthcare Architecture
 
-This module documents cloud-based healthcare data architecture patterns.
+This module documents cloud-based healthcare data architecture patterns for analytics, informatics, and AI workflows.
 
-## Topics
-- Azure healthcare workflows
-- AWS healthcare workflows
-- Data lake concepts
-- Secure ingestion
-- Analytics-ready zones
-- Governance
+## Topics Covered
 
-## Goal
-Demonstrate healthcare cloud architecture thinking.
+- Raw, validated, and curated data zones
+- FHIR/API ingestion
+- Batch file ingestion
+- Data validation
+- Analytics databases
+- Dashboard and ML layers
+- Governance and access control

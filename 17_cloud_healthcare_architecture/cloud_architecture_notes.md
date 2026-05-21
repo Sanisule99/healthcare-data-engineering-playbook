@@ -1,16 +1,20 @@
-# Cloud Healthcare Architecture Pattern
+# Cloud Healthcare Architecture Notes
 
-Raw data zone
-    ?
-Validated data zone
-    ?
-Curated analytics zone
-    ?
-Dashboard / ML layer
+## Core Pattern
 
-## Key principles
+Healthcare Source Systems
+-> Ingestion Layer
+-> Raw Data Zone
+-> Validation Layer
+-> Curated Data Zone
+-> Analytics / BI / ML Layer
+-> Users and Decision Workflows
+
+## Key Principles
+
 - Separate raw and curated data
+- Document transformations
 - Validate before analytics
-- Track lineage
-- Protect PHI
+- Protect sensitive data
+- Track data lineage
 - Use role-based access
